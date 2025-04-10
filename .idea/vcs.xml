@@ -3,5 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CodePTIT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projecty/Flask-Web-App-Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projecty/LiveKit-AI-Car-Call-Centre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/Facial-Expression-Recognition-System" vcs="Git" />
   </component>
 </project>
